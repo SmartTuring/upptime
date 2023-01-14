@@ -6,9 +6,9 @@ sites:
   - name: Punto Delivery
     url: https://app.puntodelivery.ec
   - name: Canarios Taxi
-    url: https://app.loscanarios.com.ec
+    url: https://app.loscanarios.ec
   - name: ContiYess
-    url: https://contiyess.loscanarios.com.ec
+    url: https://contiyess.loscanarios.ec
   - name: SmartTeam App
     url: https://smarteamapp.fcorporation.com.ec
   - name: PGA / APPI
