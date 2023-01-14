@@ -10,7 +10,9 @@ sites:
   - name: ContiYess
     url: https://contiyess.loscanarios.com.ec
   - name: SmartTeam App
-    url: https:/smarteamapp.fcorporation.com.ec
+    url: https://smarteamapp.fcorporation.com.ec
+  - name: PGA / APPI
+    url: https://appi-ec.net
     
 assigners:
   - Cris123m
