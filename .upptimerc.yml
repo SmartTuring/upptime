@@ -18,6 +18,8 @@ assigners:
   - Cris123m
 
 status-website:
+  theme: dark
+  faviconSvg: https://sturing.com.ec/wp-content/uploads/2022/04/Smart-Turing-t-2.svg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
@@ -31,6 +33,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
