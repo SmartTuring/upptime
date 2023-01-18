@@ -58,19 +58,19 @@
     "url": "https://smarteamapp.fcorporation.com.ec",
     "icon": "https://icons.duckduckgo.com/ip3/smarteamapp.fcorporation.com.ec.ico",
     "slug": "smart-team-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 1043,
-    "timeWeek": 1014,
-    "timeMonth": 1014,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1004,
+    "timeDay": 962,
+    "timeWeek": 1004,
+    "timeMonth": 1004,
+    "timeYear": 1004,
     "dailyMinutesDown": {
-      "2023-01-18": 0
+      "2023-01-18": 11
     }
   },
   {
