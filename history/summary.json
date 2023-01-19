@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 748,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 575,
+    "timeDay": 425,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 797,
-    "timeWeek": 626,
-    "timeMonth": 626,
-    "timeYear": 626,
+    "time": 609,
+    "timeDay": 441,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 715,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "time": 682,
+    "timeDay": 413,
+    "timeWeek": 682,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/smarteamapp.fcorporation.com.ec.ico",
     "slug": "smart-team-app",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1004,
-    "timeDay": 962,
-    "timeWeek": 1004,
-    "timeMonth": 1004,
-    "timeYear": 1004,
-    "dailyMinutesDown": {
-      "2023-01-18": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 988,
+    "timeDay": 833,
+    "timeWeek": 988,
+    "timeMonth": 988,
+    "timeYear": 988,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PGA / APPI",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 729,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "time": 646,
+    "timeDay": 515,
+    "timeWeek": 646,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   }
 ]
