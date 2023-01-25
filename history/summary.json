@@ -58,7 +58,7 @@
     "url": "https://smarteamapp.fcorporation.com.ec",
     "icon": "https://icons.duckduckgo.com/ip3/smarteamapp.fcorporation.com.ec.ico",
     "slug": "smart-team-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 880,
     "timeMonth": 960,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "PGA / APPI",
@@ -77,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/appi-ec.net.ico",
     "slug": "pga-appi",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 511,
     "timeWeek": 575,
     "timeMonth": 623,
     "timeYear": 623,
-    "dailyMinutesDown": {
-      "2023-01-25": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
