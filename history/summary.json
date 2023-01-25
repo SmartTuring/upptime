@@ -76,19 +76,19 @@
     "url": "https://appi-ec.net",
     "icon": "https://icons.duckduckgo.com/ip3/appi-ec.net.ico",
     "slug": "pga-appi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 514,
-    "timeWeek": 584,
-    "timeMonth": 630,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 623,
+    "timeDay": 511,
+    "timeWeek": 575,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 12
     }
   }
 ]
