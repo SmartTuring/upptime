@@ -22,10 +22,10 @@
     "url": "https://app.loscanarios.ec",
     "icon": "https://icons.duckduckgo.com/ip3/app.loscanarios.ec.ico",
     "slug": "canarios-taxi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 615,
@@ -33,16 +33,18 @@
     "timeWeek": 715,
     "timeMonth": 615,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-30": 1
+    }
   },
   {
     "name": "ContiYess",
     "url": "https://contiyess.loscanarios.ec",
     "icon": "https://icons.duckduckgo.com/ip3/contiyess.loscanarios.ec.ico",
     "slug": "conti-yess",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 839,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-30": 0
+    }
   },
   {
     "name": "SmartTeam App",
