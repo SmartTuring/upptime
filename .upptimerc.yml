@@ -13,6 +13,8 @@ sites:
     url: https://smarteamapp.fcorporation.com.ec
   - name: PGA / APPI
     url: https://appi-ec.net
+  - name: Maxidelivery
+    url: $MAXIDELIVERY_URL    
     
 assigners:
   - Cris123m
