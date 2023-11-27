@@ -1,7 +1,7 @@
 url: $MAXIDELIVERY_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-27T08:51:17.282Z
+status: up
+code: 200
+responseTime: 1322
+lastUpdated: 2023-11-27T09:09:05.186Z
 startTime: 2023-02-12T18:02:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
