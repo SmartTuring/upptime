@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.loscanarios.ec.ico",
     "slug": "canarios-taxi",
     "status": "down",
-    "uptime": "38.56%",
+    "uptime": "38.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 729,
+    "time": 730,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 50,
+      "2025-09-24": 51,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -379,8 +380,7 @@
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
-      "2024-09-25": 1440,
-      "2024-09-24": 1440
+      "2024-09-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/contable.contiyess.com.ico",
     "slug": "conti-yess",
     "status": "down",
-    "uptime": "23.53%",
+    "uptime": "23.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 50,
+      "2025-09-24": 51,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -763,8 +764,7 @@
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
-      "2024-09-25": 1440,
-      "2024-09-24": 1440
+      "2024-09-25": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smarteamapp.fcorporation.com.ec.ico",
     "slug": "smart-team-app",
     "status": "down",
-    "uptime": "75.25%",
+    "uptime": "75.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.49%",
-    "time": 1622,
+    "uptimeYear": "33.22%",
+    "time": 1625,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1502,
+    "timeYear": 1504,
     "dailyMinutesDown": {
-      "2025-09-23": 50,
+      "2025-09-24": 51,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -1031,8 +1032,7 @@
       "2024-12-11": 87,
       "2024-10-05": 33,
       "2024-10-04": 26,
-      "2024-10-03": 199,
-      "2024-09-24": 21
+      "2024-10-03": 199
     }
   },
   {
@@ -1041,15 +1041,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/appi-ec.net.ico",
     "slug": "pga-appi",
     "status": "up",
-    "uptime": "81.06%",
+    "uptime": "81.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.82%",
     "time": 472,
-    "timeDay": 515,
-    "timeWeek": 338,
-    "timeMonth": 345,
+    "timeDay": 268,
+    "timeWeek": 327,
+    "timeMonth": 342,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-09-15": 22,
@@ -1098,9 +1098,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 440,
-    "timeDay": 369,
-    "timeWeek": 361,
-    "timeMonth": 379,
+    "timeDay": 249,
+    "timeWeek": 343,
+    "timeMonth": 372,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-07-06": 29,
