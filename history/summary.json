@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.loscanarios.ec.ico",
     "slug": "canarios-taxi",
     "status": "down",
-    "uptime": "28.87%",
+    "uptime": "28.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 38,
+      "2026-08-19": 196,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 38,
+      "2026-08-19": 196,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 38,
+      "2026-08-19": 196,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1157,11 +1157,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/appi-ec.net.ico",
     "slug": "pga-appi",
     "status": "down",
-    "uptime": "60.92%",
+    "uptime": "60.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.41%",
+    "uptimeYear": "10.38%",
     "time": 386,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1173,7 +1173,7 @@
       "2025-09-03": 19,
       "2025-09-05": 17,
       "2025-09-15": 22,
-      "2026-08-19": 38,
+      "2026-08-19": 196,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1508,9 +1508,9 @@
     "url": "$MAXIDELIVERY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maxidelivery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.05%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "98.85%",
@@ -1536,7 +1536,8 @@
       "2026-07-05": 175,
       "2026-07-06": 73,
       "2026-08-14": 8,
-      "2026-08-13": 591
+      "2026-08-13": 591,
+      "2026-08-19": 0
     }
   }
 ]
