@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 149,
+      "2026-10-24": 347,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 149,
+      "2026-10-24": 347,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 149,
+      "2026-10-24": 347,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/appi-ec.net.ico",
     "slug": "pga-appi",
     "status": "down",
-    "uptime": "58.00%",
+    "uptime": "57.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 149,
+      "2026-10-24": 347,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -1540,17 +1540,17 @@
     "url": "$MAXIDELIVERY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maxidelivery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "98.94%",
     "time": 570,
-    "timeDay": 643,
-    "timeWeek": 680,
-    "timeMonth": 1837,
-    "timeYear": 646,
+    "timeDay": 424,
+    "timeWeek": 620,
+    "timeMonth": 1787,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-11-05": 1127,
       "2025-11-06": 887,
@@ -1571,7 +1571,8 @@
       "2026-08-20": 137,
       "2026-08-21": 179,
       "2026-10-03": 1,
-      "2026-10-02": 199
+      "2026-10-02": 199,
+      "2026-10-24": 0
     }
   }
 ]
