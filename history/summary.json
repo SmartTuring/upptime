@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.loscanarios.ec.ico",
     "slug": "canarios-taxi",
     "status": "down",
-    "uptime": "27.42%",
+    "uptime": "27.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 173,
+      "2026-10-27": 992,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 173,
+      "2026-10-27": 992,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/smarteamapp.fcorporation.com.ec.ico",
     "slug": "smart-team-app",
     "status": "down",
-    "uptime": "53.52%",
+    "uptime": "53.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 173,
+      "2026-10-27": 992,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/appi-ec.net.ico",
     "slug": "pga-appi",
     "status": "down",
-    "uptime": "57.87%",
+    "uptime": "57.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-27": 173,
+      "2026-10-27": 992,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
@@ -1540,17 +1540,17 @@
     "url": "$MAXIDELIVERY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "maxidelivery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "90.46%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "98.76%",
     "time": 572,
-    "timeDay": 802,
-    "timeWeek": 650,
-    "timeMonth": 1776,
-    "timeYear": 647,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 1738,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2025-11-05": 1127,
       "2025-11-06": 887,
@@ -1572,7 +1572,8 @@
       "2026-08-21": 179,
       "2026-10-03": 1,
       "2026-10-02": 199,
-      "2026-10-24": 961
+      "2026-10-24": 961,
+      "2026-10-27": 0
     }
   }
 ]
